@@ -55,6 +55,5 @@ El sistema estudiado corresponde a un **disco rodante unido a un resorte lineal*
 <p align="center">
   <img src="https://i.pinimg.com/originals/4f/95/51/4f9551b5b01bc865235dc46f35c35604.gif" width="450"/>
 </p>
-" width="450"/>
-</p>
+
 
